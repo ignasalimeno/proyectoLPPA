@@ -1,0 +1,7 @@
+C:\Users\Adm\Documents\ProyectoLPPA\Globales\bin\Release\Globales.dll
+C:\Users\Adm\Documents\ProyectoLPPA\Globales\bin\Release\Globales.pdb
+C:\Users\Adm\Documents\ProyectoLPPA\Globales\bin\Release\Datos.dll
+C:\Users\Adm\Documents\ProyectoLPPA\Globales\bin\Release\Datos.pdb
+C:\Users\Adm\Documents\ProyectoLPPA\Globales\obj\Release\Globales.csprojResolveAssemblyReference.cache
+C:\Users\Adm\Documents\ProyectoLPPA\Globales\obj\Release\Globales.dll
+C:\Users\Adm\Documents\ProyectoLPPA\Globales\obj\Release\Globales.pdb

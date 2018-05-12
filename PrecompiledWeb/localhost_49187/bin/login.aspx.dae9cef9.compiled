@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Account/Login.aspx" hash="376f2ccb5" filehash="5a54b144f4732bce" flags="110000" assembly="App_Web_tvhvcjgg" type="ASP.account_login_aspx">
+    <filedeps>
+        <filedep name="/Account/Login.aspx" />
+        <filedep name="/Account/Login.aspx.cs" />
+        <filedep name="/Account/OpenAuthProviders.ascx" />
+        <filedep name="/Account/OpenAuthProviders.ascx.cs" />
+        <filedep name="/Site.master" />
+        <filedep name="/Site.master.cs" />
+    </filedeps>
+</preserve>

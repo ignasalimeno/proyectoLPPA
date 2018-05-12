@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Account/OpenAuthProviders.ascx" hash="376f2ccb5" filehash="fdf482bc838ba404" flags="110000" assembly="App_Web_mz2p2kcc" type="ASP.account_openauthproviders_ascx">
+    <filedeps>
+        <filedep name="/Account/OpenAuthProviders.ascx" />
+        <filedep name="/Account/OpenAuthProviders.ascx.cs" />
+    </filedeps>
+</preserve>

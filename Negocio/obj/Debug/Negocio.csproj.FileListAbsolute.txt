@@ -1,0 +1,47 @@
+C:\Users\Adm\Documents\Visual Studio 2012\Projects\ProyectoLPPA\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Adm\Documents\Visual Studio 2012\Projects\ProyectoLPPA\Negocio\bin\Debug\Negocio.dll
+C:\Users\Adm\Documents\Visual Studio 2012\Projects\ProyectoLPPA\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Adm\Documents\Visual Studio 2012\Projects\ProyectoLPPA\Negocio\bin\Debug\Datos.dll
+C:\Users\Adm\Documents\Visual Studio 2012\Projects\ProyectoLPPA\Negocio\bin\Debug\Globales.dll
+C:\Users\Adm\Documents\Visual Studio 2012\Projects\ProyectoLPPA\Negocio\bin\Debug\Datos.pdb
+C:\Users\Adm\Documents\Visual Studio 2012\Projects\ProyectoLPPA\Negocio\bin\Debug\Globales.pdb
+C:\Users\Adm\Documents\Visual Studio 2012\Projects\ProyectoLPPA\Negocio\obj\Debug\Negocio.dll
+C:\Users\Adm\Documents\Visual Studio 2012\Projects\ProyectoLPPA\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Adm\Documents\ProyectoLPPA\Negocio\bin\Debug\Negocio.dll
+C:\Users\Adm\Documents\ProyectoLPPA\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Adm\Documents\ProyectoLPPA\Negocio\bin\Debug\Datos.dll
+C:\Users\Adm\Documents\ProyectoLPPA\Negocio\bin\Debug\Globales.dll
+C:\Users\Adm\Documents\ProyectoLPPA\Negocio\bin\Debug\Datos.pdb
+C:\Users\Adm\Documents\ProyectoLPPA\Negocio\bin\Debug\Globales.pdb
+C:\Users\Adm\Documents\ProyectoLPPA\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Adm\Documents\ProyectoLPPA\Negocio\obj\Debug\Negocio.dll
+C:\Users\Adm\Documents\ProyectoLPPA\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Ignacio\Documents\proyectolppa\Negocio\bin\Debug\Negocio.dll
+C:\Users\Ignacio\Documents\proyectolppa\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Ignacio\Documents\proyectolppa\Negocio\bin\Debug\Datos.dll
+C:\Users\Ignacio\Documents\proyectolppa\Negocio\bin\Debug\Globales.dll
+C:\Users\Ignacio\Documents\proyectolppa\Negocio\bin\Debug\Datos.pdb
+C:\Users\Ignacio\Documents\proyectolppa\Negocio\bin\Debug\Globales.pdb
+C:\Users\Ignacio\Documents\proyectolppa\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Ignacio\Documents\proyectolppa\Negocio\obj\Debug\Negocio.dll
+C:\Users\Ignacio\Documents\proyectolppa\Negocio\obj\Debug\Negocio.pdb
+\\Mac\Home\Documents\Ignacio\Bitbucket\ProyectoLPPA\Negocio\bin\Debug\Negocio.dll
+\\Mac\Home\Documents\Ignacio\Bitbucket\ProyectoLPPA\Negocio\bin\Debug\Negocio.pdb
+\\Mac\Home\Documents\Ignacio\Bitbucket\ProyectoLPPA\Negocio\bin\Debug\Datos.dll
+\\Mac\Home\Documents\Ignacio\Bitbucket\ProyectoLPPA\Negocio\bin\Debug\Globales.dll
+\\Mac\Home\Documents\Ignacio\Bitbucket\ProyectoLPPA\Negocio\bin\Debug\Datos.pdb
+\\Mac\Home\Documents\Ignacio\Bitbucket\ProyectoLPPA\Negocio\bin\Debug\Globales.pdb
+\\Mac\Home\Documents\Ignacio\Bitbucket\ProyectoLPPA\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Ignacio\Bitbucket\ProyectoLPPA\Negocio\obj\Debug\Negocio.dll
+\\Mac\Home\Documents\Ignacio\Bitbucket\ProyectoLPPA\Negocio\obj\Debug\Negocio.pdb
+C:\Users\ignas\Desktop\Bitbucket\ProyectoLPPA\Negocio\bin\Debug\Negocio.dll
+C:\Users\ignas\Desktop\Bitbucket\ProyectoLPPA\Negocio\bin\Debug\Negocio.pdb
+C:\Users\ignas\Desktop\Bitbucket\ProyectoLPPA\Negocio\bin\Debug\Datos.dll
+C:\Users\ignas\Desktop\Bitbucket\ProyectoLPPA\Negocio\bin\Debug\Globales.dll
+C:\Users\ignas\Desktop\Bitbucket\ProyectoLPPA\Negocio\bin\Debug\Datos.pdb
+C:\Users\ignas\Desktop\Bitbucket\ProyectoLPPA\Negocio\bin\Debug\Globales.pdb
+C:\Users\ignas\Desktop\Bitbucket\ProyectoLPPA\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\ignas\Desktop\Bitbucket\ProyectoLPPA\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\ignas\Desktop\Bitbucket\ProyectoLPPA\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\ignas\Desktop\Bitbucket\ProyectoLPPA\Negocio\obj\Debug\Negocio.dll
+C:\Users\ignas\Desktop\Bitbucket\ProyectoLPPA\Negocio\obj\Debug\Negocio.pdb

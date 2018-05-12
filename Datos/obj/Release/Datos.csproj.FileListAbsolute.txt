@@ -1,0 +1,4 @@
+C:\Users\Adm\Documents\ProyectoLPPA\Datos\bin\Release\Datos.dll
+C:\Users\Adm\Documents\ProyectoLPPA\Datos\bin\Release\Datos.pdb
+C:\Users\Adm\Documents\ProyectoLPPA\Datos\obj\Release\Datos.dll
+C:\Users\Adm\Documents\ProyectoLPPA\Datos\obj\Release\Datos.pdb

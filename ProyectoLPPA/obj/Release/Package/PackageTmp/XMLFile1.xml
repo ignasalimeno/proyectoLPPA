@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<?xml-stylesheet type="text/css" href="Ejercicio1.css"?>
+
+<!DOCTYPE ventas[
+  <!ELEMENT ventas (dia, mes, anio, ticket*)>
+  <!ELEMENT dia (#PCDATA)>
+  <!ELEMENT mes (#PCDATA)>
+  <!ELEMENT anio (#PCDATA)>
+  <!ELEMENT ticket (cliente, iva, total, total_sin_iva,item*)>
+  <!ATTLIST ticket numero CDATA #REQUIRED>
+  <!ELEMENT cliente (#PCDATA)>
+  <!ELEMENT iva (#PCDATA)>
+  <!ELEMENT total (#PCDATA)>
+  <!ELEMENT total_sin_iva (#PCDATA)>
+  <!ELEMENT item (desc, precio, cantidad)>
+  <!ATTLIST item codigo CDATA #REQUIRED>
+  <!ELEMENT desc (#PCDATA)>
+  <!ELEMENT precio (#PCDATA)>
+  <!ELEMENT cantidad (#PCDATA)>
+]>
+
+<ventas>
+  <dia>1</dia>
+  <mes>6</mes>
+  <anio>2017</anio>
+  <ticket numero="123">
+    <cliente>Pepe</cliente>
+    <iva>30</iva>
+    <total>130</total>
+    <total_sin_iva>100</total_sin_iva>
+    <item codigo="aa">
+      <desc>Item 1</desc>
+      <precio>40</precio>
+      <cantidad>1</cantidad>      
+    </item>
+    <item codigo="ab">
+      <desc>Item 2</desc>
+      <precio>60</precio>
+      <cantidad>2</cantidad>
+    </item>
+  </ticket>
+  <ticket numero="789">
+    <cliente>Jose</cliente>
+    <iva>60</iva>
+    <total>260</total>
+    <total_sin_iva>200</total_sin_iva>
+    <item codigo="dd">
+      <desc>Item 1</desc>
+      <precio>40</precio>
+      <cantidad>1</cantidad>
+    </item>
+    <item codigo="df">
+      <desc>Item 2</desc>
+      <precio>60</precio>
+      <cantidad>2</cantidad>
+    </item>
+  </ticket>
+</ventas>

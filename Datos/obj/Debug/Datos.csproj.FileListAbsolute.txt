@@ -1,0 +1,24 @@
+C:\Users\Adm\Documents\Visual Studio 2012\Projects\ProyectoLPPA\Datos\bin\Debug\Datos.dll
+C:\Users\Adm\Documents\Visual Studio 2012\Projects\ProyectoLPPA\Datos\bin\Debug\Datos.pdb
+C:\Users\Adm\Documents\Visual Studio 2012\Projects\ProyectoLPPA\Datos\obj\Debug\Datos.dll
+C:\Users\Adm\Documents\Visual Studio 2012\Projects\ProyectoLPPA\Datos\obj\Debug\Datos.pdb
+C:\Users\Adm\Documents\ProyectoLPPA\Datos\bin\Debug\Datos.dll
+C:\Users\Adm\Documents\ProyectoLPPA\Datos\bin\Debug\Datos.pdb
+C:\Users\Adm\Documents\ProyectoLPPA\Datos\obj\Debug\Datos.dll
+C:\Users\Adm\Documents\ProyectoLPPA\Datos\obj\Debug\Datos.pdb
+C:\Users\Ignacio\Documents\proyectolppa\Datos\bin\Debug\Datos.dll
+C:\Users\Ignacio\Documents\proyectolppa\Datos\bin\Debug\Datos.pdb
+C:\Users\Ignacio\Documents\proyectolppa\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\Ignacio\Documents\proyectolppa\Datos\obj\Debug\Datos.dll
+C:\Users\Ignacio\Documents\proyectolppa\Datos\obj\Debug\Datos.pdb
+\\Mac\Home\Documents\Ignacio\Bitbucket\ProyectoLPPA\Datos\bin\Debug\Datos.dll
+\\Mac\Home\Documents\Ignacio\Bitbucket\ProyectoLPPA\Datos\bin\Debug\Datos.pdb
+\\Mac\Home\Documents\Ignacio\Bitbucket\ProyectoLPPA\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Ignacio\Bitbucket\ProyectoLPPA\Datos\obj\Debug\Datos.dll
+\\Mac\Home\Documents\Ignacio\Bitbucket\ProyectoLPPA\Datos\obj\Debug\Datos.pdb
+C:\Users\ignas\Desktop\Bitbucket\ProyectoLPPA\Datos\bin\Debug\Datos.dll
+C:\Users\ignas\Desktop\Bitbucket\ProyectoLPPA\Datos\bin\Debug\Datos.pdb
+C:\Users\ignas\Desktop\Bitbucket\ProyectoLPPA\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\ignas\Desktop\Bitbucket\ProyectoLPPA\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\ignas\Desktop\Bitbucket\ProyectoLPPA\Datos\obj\Debug\Datos.dll
+C:\Users\ignas\Desktop\Bitbucket\ProyectoLPPA\Datos\obj\Debug\Datos.pdb
